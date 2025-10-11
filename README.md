@@ -5,7 +5,7 @@ Each post (or artifact) is canonicalized → hashed (SHA-256) → recorded here 
 The git commit timestamp is the notarization.
 
 **Live site:** https://vibeaxis.com/  
-**Proof Stamp plugin:** https://github.com/vibeaxis/vibeaxis-proof-stamp  
+**Proof Stamp plugin:** https://github.com/vibeaxis/vax-proof-stamp  
 **Wiki:** https://github.com/vibeaxis/vibeaxis-proofs/wiki
 
 ---
